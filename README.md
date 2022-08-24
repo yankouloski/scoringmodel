@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Implémentez un modèle de scoring
 
 
