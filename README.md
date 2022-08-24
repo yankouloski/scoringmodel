@@ -42,11 +42,11 @@ Si vous n'avez jamais installé Python, alors autant installer directement la di
 
 De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Seaborn, Scipy, Numpy etc… Mais aussi le notebook Jupyter, qui reste incontournable et vivement recommandé! 
 
-Pour Anaconda c'est par ici : **Lien Anaconda à incruster**
+Pour Anaconda c'est par ici : **https://docs.anaconda.com/anaconda/navigator/**
 
 Si vous souhaitez lancer le projet, il sera nécessaire d'installer Jupyter Notebook sur votre machine.
 
-La documentation sur Jupyter est accessible ici: **Lien Jupyter à incruster**
+La documentation sur Jupyter est accessible ici: **https://jupyter.org/**
 
 **Il sera egalement necessaire d'installer les principales librairie de Python**
 
@@ -57,3 +57,32 @@ pip install scipy
 
 ## Heroku Git
 
+Pour l'installation de Heroku Command Line Interface (CLI), voir ici:
+      **https://devcenter.heroku.com/articles/heroku-cli**
+      
+Lorsque vous aurez installé Heroku sur votre machine et créé un compte, il sera temps de vous connecter à votre compte Heroku depuis le terminal. Pour ce faire, exécutez la commande suivante dans votre terminal :
+
+$ heroku login
+
+Pour la mise à jour des modifications utilisez les commandes suivantes
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+
+
+## Ressources Streamlit 
+
+La présentation des ressources est disponible ici:  **https://streamlit.io/**
+
+D'autres ressources utiles sont disponible ici:  https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py
+
+## Ressouces graphique
+
+Pour réaliser des graphiques claire et pertinent c'est par ici: 
+https://www.psiweb.org/docs/default-source/2018-psi-conference-posters/48-julie-jones.pdf
+
+
+## Auteur
+
+Yankouloski (Yankou DIASSO) - https://github.com/yankouloski -
