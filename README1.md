@@ -42,11 +42,11 @@ Si vous n'avez jamais installé Python, alors autant installer directement la di
 
 De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Seaborn, Scipy, Numpy etc… Mais aussi le notebook Jupyter, qui reste incontournable et vivement recommandé! 
 
-Pour Anaconda c'est par ici : **Lien Anaconda à incruster**
+Pour Anaconda c'est par ici : **https://docs.anaconda.com/anaconda/navigator/**
 
 Si vous souhaitez lancer le projet, il sera nécessaire d'installer Jupyter Notebook sur votre machine.
 
-La documentation sur Jupyter est accessible ici: **Lien Jupyter à incruster**
+La documentation sur Jupyter est accessible ici: **https://jupyter.org/**
 
 **Il sera egalement necessaire d'installer les principales librairie de Python**
 
