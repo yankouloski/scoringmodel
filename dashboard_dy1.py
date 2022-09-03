@@ -169,7 +169,7 @@ def main() :
 
 
 ########Compute decision according to the best threshold
-    if prediction <= 0.5 :
+    if prediction <= 0.73 :
         decision = "<font color='green'>**LOAN GRANTED**</font>" 
     else:
         decision = "<font color='red'>**LOAN REJECTED**</font>"
