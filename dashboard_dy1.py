@@ -174,7 +174,7 @@ def main() :
     else:
         decision = "<font color='red'>**LOAN REJECTED**</font>"
 
-    st.write("**Decision** *(with threshold 50%)* :", decision, unsafe_allow_html=True)
+    st.write("**Decision** *(with threshold 73%)* :", decision, unsafe_allow_html=True)
     
 
 #################### Customer data
